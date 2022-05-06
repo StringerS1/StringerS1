@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I am a developer dealing with cryptology, software and hardware.</h3>
 
-- 🔭 I’m currently working on **"Crypters"**
+<h3 - 🔭 I’m currently working on **"Crypters"**  </h3>
 
-- 🌱 I’m currently learning **Pyhton, JAVA, ASCII and more...**
+<h3 - 🌱 I’m currently learning **Pyhton, JAVA, ASCII and more...** </h3>
 
-- 👯 I’m looking to collaborate on [Protonmail](https://protonmail.com/)
+<h3 - 👯 I’m looking to collaborate on [Protonmail](https://protonmail.com/) </h3>
 
-- 👨‍💻 All of my projects are available at [furkanahmetkayapc.xyz](furkanahmetkayapc.xyz)
+<h3 - 👨‍💻 All of my projects are available at [furkanahmetkayapc.xyz](furkanahmetkayapc.xyz) </h3>
 
-- 📝 I regularly write articles on [furkanahmetkayapc.xyz/blog](furkanahmetkayapc.xyz/blog)
+<h3 - 📝 I regularly write articles on [furkanahmetkayapc.xyz/blog](furkanahmetkayapc.xyz/blog) </h3>
 
-- 💬 Ask me about **anything**
+<h3 - 💬 Ask me about **anything** </h3>
 
-- 📫 How to reach me **furkannexe@protonmail.com**
+<h3 - 📫 How to reach me **furkannexe@protonmail.com** </h3>
 
-- 📄 Know about my experiences [furkanahmetkayapc.xyz/experiences](furkanahmetkayapc.xyz/experiences)
+<h3 - 📄 Know about my experiences [furkanahmetkayapc.xyz/experiences](furkanahmetkayapc.xyz/experiences) </h3>
 
-- ⚡ Fun fact **I am a big fan of linus torvalds and i love history**
+<h3 - ⚡ Fun fact **I am a big fan of linus torvalds and i love history** </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/dev.to/stringers1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/stringers1" height="30" width="40" /></a>
 <a href="https://twitter.com/stringerss2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stringerss2" height="30" width="40" /></a>

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">I am a developer dealing with cryptology, software and hardware.</h3>
+<h3 align="center">I am currently working as sysadmin but I am also developer dealing with cryptology, software and hardware.</h3>
 
 <h3 - 🔭 I’m currently working on **"Crypters"**  </h3>
 
-<h3 - 🌱 I’m currently learning **Pyhton, JAVA, ASCII and more...** </h3>
+<h3 - 🌱 I’m currently learning **IoT, JAVA, MySQL and more...** </h3>
 
-<h3 - 👯 I’m looking to collaborate on [Protonmail](https://protonmail.com/) </h3>
+<h3 - 👯 I’m looking to collaborate on [Protonmail](https://protonmail.com/) [Berqnet](https://berqnet.com/) </h3>
 
 <h3 - 👨‍💻 All of my projects are available at [furkanahmetkayapc.xyz](furkanahmetkayapc.xyz) </h3>
 
@@ -13,7 +13,7 @@
 
 <h3 - 💬 Ask me about **anything** </h3>
 
-<h3 - 📫 How to reach me **furkannexe@protonmail.com** </h3>
+<h3 - 📫 How to reach me **furkannexe@protonmail.com** </h3> or <h3 [My Business Mail] (mail:iletisim@furkanahmetkayapc.xyz)
 
 <h3 - 📄 Know about my experiences [furkanahmetkayapc.xyz/experiences](furkanahmetkayapc.xyz/experiences) </h3>
 

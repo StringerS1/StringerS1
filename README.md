@@ -13,7 +13,7 @@
 
 <h3 - 💬 Ask me about **anything** </h3>
 
-<h3 - 📫 How to reach me **furkannexe@protonmail.com** </h3> or <h3 [My Business Mail] (mail:iletisim@furkanahmetkayapc.xyz)
+<h3 - 📫 How to reach me **furkannexe@protonmail.com** </h3> <h3 [My Business Mail] (mail:iletisim@furkanahmetkayapc.xyz)
 
 <h3 - 📄 Know about my experiences [furkanahmetkayapc.xyz/experiences](furkanahmetkayapc.xyz/experiences) </h3>
 

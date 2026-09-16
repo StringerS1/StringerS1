@@ -142,7 +142,7 @@ github.com/StringerS1
 
 <p>
 💼 <strong>LinkedIn:</strong>
-<a href="https://www.linkedin.com/in/furkan-k-52270b236/" target="_blank">
+<a href="https://www.linkedin.com/in/furkan-k-52270b236/](https://tr.linkedin.com/in/furkank1983?trk=profile-badge" target="_blank">
 Furkan Ahmet Kaya
 </a>
 </p>
